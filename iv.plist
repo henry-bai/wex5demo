@@ -11,8 +11,8 @@
                      <key>kind</key>
                      <string>software-package</string>
                      <key>url</key>
-                     <string>ipa包URL（必填）</string>
-                 </dict>
+                     <string></string>
+                 </dict>http://218.90.141.146:8088/app/ivms4510hd.apk
                  <dict>
                      <key>kind</key>
                      <string>full-size-image</string>
@@ -27,21 +27,21 @@
                      <key>needs-shine</key>
                      <false/>
                      <key>url</key>
-                     <string>下载时小图（非必填）</string>
+                     <string></string>
                  </dict>
              </array>
              <key>metadata</key>
              <dict>
                  <key>bundle-identifier</key>
-                 <string>BundleID（必填）</string>
+                 <string>com.lootom.ivms4510hd</string>
                  <key>bundle-version</key>
                  <string>1.0</string>
                  <key>kind</key>
                  <string>software</string>
                  <key>subtitle</key>
-                 <string>副标题（非必填）</string>
+                 <string></string>
                  <key>title</key>
-                 <string>应用名（必填）</string>
+                 <string>HikPlayer</string>
              </dict>
          </dict>
      </array>
