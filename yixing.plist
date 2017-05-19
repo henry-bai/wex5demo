@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.28.54.6:8126/app/yxapp.ipa</string>
+					<string>http://115.28.54.6:8126/app/onekeyalarm.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lootom.HMStar</string>
+				<string>com.company-iOS.One-key-Alert</string>
 				<key>bundle-version</key>
-				<string>1.1.17</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HMStar APP</string>
+				<string>One-Key-Alarm</string>
 			</dict>
 		</dict>
 	</array>
